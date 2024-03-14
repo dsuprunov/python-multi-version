@@ -1,5 +1,7 @@
 ## Custom Ubuntu 22.04 LTS Image with Integrated Python Versions
 
+[![Docker](https://github.com/dsuprunov/python-multi-version/actions/workflows/docker.yml/badge.svg)](https://github.com/dsuprunov/python-multi-version/actions/workflows/docker.yml)
+
 This repository contains a Dockerfile used for building a custom Docker image with Ubuntu 22.04 LTS and integrated versions of Python (3.10, 3.11, 3.12), achieved through the utilization of `pyenv`.
 
 ### Purpose
